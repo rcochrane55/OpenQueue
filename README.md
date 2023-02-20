@@ -1,5 +1,6 @@
 # OpenQueue
 files for Claypot's OpenQueue project
+
 This repository contains the Python script for Claypot Productions OpenQueue project, specifically the Musicube version of the script as of this time. 
 The code was written for Python 3.10 and depends on the json and requests packages.
 To get set up to use this script on your own machine and musicube account, you will need to do the following:
